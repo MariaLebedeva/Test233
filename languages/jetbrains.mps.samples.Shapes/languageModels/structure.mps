@@ -65,6 +65,7 @@
       <concept id="5106752179536586436" name="jetbrains.mps.lang.text.structure.IndentedPoint" flags="ngI" index="2RT3b8">
         <property id="5106752179536586491" name="indentation" index="2RT3bR" />
       </concept>
+      <concept id="7832392118012508876" name="jetbrains.mps.lang.text.structure.Header" flags="ng" index="131$nI" />
       <concept id="155656958578482948" name="jetbrains.mps.lang.text.structure.Word" flags="nn" index="3oM_SD">
         <property id="155656958578482949" name="value" index="3oM_SC" />
       </concept>
@@ -197,6 +198,32 @@
       <property role="TrG5h" value="radius" />
       <property role="IQ2nx" value="5898776707557474718" />
       <ref role="AX2Wp" to="tpck:fKAQMTA" resolve="integer" />
+    </node>
+    <node concept="3207RK" id="5VRVfhYvczl" role="lGtFl">
+      <node concept="3W_X3N" id="5VRVfhYvczm" role="SU_fC">
+        <node concept="131$nI" id="5VRVfhYvcA8" role="2WYp1Y">
+          <node concept="3oM_SD" id="5VRVfhYvcAa" role="1PaTwD">
+            <property role="3oM_SC" value="ABC" />
+          </node>
+        </node>
+        <node concept="1PaTwC" id="5VRVfhYvc_2" role="2WYp1Y">
+          <node concept="3oM_SD" id="5VRVfhYvc_1" role="1PaTwD">
+            <property role="3oM_SC" value="This" />
+          </node>
+          <node concept="3oM_SD" id="5VRVfhYvczU" role="1PaTwD">
+            <property role="3oM_SC" value="is" />
+          </node>
+          <node concept="3oM_SD" id="5VRVfhYvczY" role="1PaTwD">
+            <property role="3oM_SC" value="a" />
+          </node>
+          <node concept="3oM_SD" id="5VRVfhYvc$2" role="1PaTwD">
+            <property role="3oM_SC" value="circle" />
+          </node>
+          <node concept="3oM_SD" id="5VRVfhYvc$k" role="1PaTwD">
+            <property role="3oM_SC" value="shape" />
+          </node>
+        </node>
+      </node>
     </node>
   </node>
   <node concept="1TIwiD" id="57sEyAnjW6y">
